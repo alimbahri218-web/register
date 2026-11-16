@@ -1,0 +1,12 @@
+{
+  "name": "alimtools",
+  "description": "Alim Tools - Kumpulan tools gratis by Alim Bahri",
+  "repo": "https://github.com/alimbahri218-web",
+  "owner": {
+    "username": "alimbahri218-web",
+    "email": "alimbahri218@gmail.com"
+  },
+  "record": {
+    "CNAME": "alimbahri218-web.github.io"
+  }
+}
